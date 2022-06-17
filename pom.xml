@@ -68,7 +68,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.45</version>
+            <version>1.2.83</version>
         </dependency>
         <!--获取文件时长的jar-->
         <!-- https://mvnrepository.com/artifact/com.github.dadiyang/jave -->
